@@ -1,3 +1,11 @@
+/*
+ * @Author: gifted-professor 1044396185@qq.com
+ * @Date: 2026-01-15 17:47:07
+ * @LastEditors: gifted-professor 1044396185@qq.com
+ * @LastEditTime: 2026-01-15 17:47:33
+ * @FilePath: /闲鱼文案生成器/services/geminiService.ts
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
 import { ProductResult } from "../types";
 
 export const generateCopy = async (inputTexts: string[]): Promise<ProductResult[]> => {
