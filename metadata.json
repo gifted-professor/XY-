@@ -1,0 +1,5 @@
+{
+  "name": "闲鱼文案生成器",
+  "description": "专为闲鱼奥莱卖家打造的 AI 营销文案生成器。自动提取商品特征，生成固定格式的高转化率文案。",
+  "requestFramePermissions": []
+}
